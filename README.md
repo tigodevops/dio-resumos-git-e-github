@@ -12,7 +12,7 @@ do Curso de Versionamento de cógigos com Git e GitHub
 
 | Aulas | Resumos |
 | ----- | ------- |
-| Gravando Alterações no Repositório Local | [Resumos]
+| Gravando Alterações no Repositório Local | [Resumo]
 ()|
 
 ```
