@@ -12,8 +12,8 @@ do Curso de Versionamento de cógigos com Git e GitHub
 
 | Aulas | Resumos |
 | ----- | ------- |
-| Gravando Alterações no Repositório Local | [Resumo]
-()|
+| Aula 1 | [Resumo]()|
+| Aula 2 | [Resumo]()|
 
 ```
 git init
